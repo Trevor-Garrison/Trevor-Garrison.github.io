@@ -1,0 +1,151 @@
+/* Style the header */
+.header {
+  padding: 20px;
+  text-align: center;
+  font-size: x-large;
+  background-color: #0084ff;
+  color: #000000
+}
+
+Body {
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0;
+  background-color: #c5f3ff;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #0c5fa3;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: middle;
+  display: inline;
+  color: #5fdfff;
+  text-align: center;
+  text-decoration: none;
+  font-size: xx-large;
+  margin: 10px;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #5fdfff ;
+  color: rgb(0, 0, 0);
+}
+
+#home {
+  background-color: #5fdfff;
+  color: rgb(0, 0, 0)
+}
+
+#Magnum {
+  background-color: #5fdfff;
+  color: black
+}
+
+#Games {
+  background-color: #5fdfff;
+  color: black
+}
+
+#Music {
+  background-color: #5fdfff;
+  color: black
+}
+
+#Art {
+  background-color: #5fdfff;
+  color: black
+}
+
+#Boardgames {
+  background-color: #5fdfff;
+  color: black
+}
+
+#Sounds {
+  background-color: #5fdfff;
+  color: black
+}
+
+#resume {
+  background-color: #5fdfff;
+  color: black
+}
+
+#Contact {
+  background-color: #5fdfff;
+  color: black
+}
+
+#Aboutme {
+  background-color: #5fdfff;
+  color: black
+}
+
+.Bready {
+  height: 500px;
+  width: 700px;
+  Float: Left
+}
+
+.Bread {
+  text-align: center;
+  height: 10%;
+  width: 20%;
+  margin-left: 40%;
+  margin-right: 40%
+}
+
+.Breadous {
+  height: 500px;
+  width: 700px;
+  Float: right
+}
+
+.Breadious {
+  float: right;
+  height: 600px;
+  width: 800px;
+}
+
+.Breadan {
+  Float: left;
+  height: 600px;
+  width: 800px;
+}
+
+.home {
+  Height: auto;
+  Width: 100%
+}
+
+.game {
+  Height: auto;
+  width: 50%
+}
+
+.audio {
+  Height: auto;
+  width: 100%
+}
+
+.Art {
+  Height: Auto;
+  width: 100%
+}
+
+.resume {
+  height: auto;
+  width: 100%
+}
+
+.Ap {
+  height:auto;
+  Width: 100%
+}
+
