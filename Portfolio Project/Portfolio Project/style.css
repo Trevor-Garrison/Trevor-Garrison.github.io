@@ -3,7 +3,7 @@
   padding: 20px;
   text-align: center;
   font-size: x-large;
-  background-color: #0084ff;
+  background-color: #9acdfd;
   color: #000000
 }
 
@@ -11,20 +11,20 @@ Body {
   text-align: center;
   box-sizing: border-box;
   margin: 0;
-  background-color: #c5f3ff;
+  background-color: #bfeffc;
 }
 
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: #0c5fa3;
+  background-color: #0f4c7e;
 }
 
 /* Style the topnav links */
 .topnav a {
   float: middle;
   display: inline;
-  color: #5fdfff;
+  color: #bcf2ff;
   text-align: center;
   text-decoration: none;
   font-size: xx-large;
@@ -33,57 +33,57 @@ Body {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: #5fdfff ;
+  background-color: #8584d6 ;
   color: rgb(0, 0, 0);
 }
 
 #home {
-  background-color: #5fdfff;
+  background-color: #8b53f1;
   color: rgb(0, 0, 0)
 }
 
 #Magnum {
-  background-color: #5fdfff;
+  background-color: #8b53f1;
   color: black
 }
 
 #Games {
-  background-color: #5fdfff;
+  background-color: #8b53f1;
   color: black
 }
 
 #Music {
-  background-color: #5fdfff;
+  background-color: #8b53f1;
   color: black
 }
 
 #Art {
-  background-color: #5fdfff;
+  background-color: #8b53f1;
   color: black
 }
 
 #Boardgames {
-  background-color: #5fdfff;
+  background-color: #8b53f1;
   color: black
 }
 
 #Sounds {
-  background-color: #5fdfff;
+  background-color: #8b53f1;
   color: black
 }
 
 #resume {
-  background-color: #5fdfff;
+  background-color: #8b53f1;
   color: black
 }
 
 #Contact {
-  background-color: #5fdfff;
+  background-color: #8b53f1;
   color: black
 }
 
 #Aboutme {
-  background-color: #5fdfff;
+  background-color: #8b53f1;
   color: black
 }
 
