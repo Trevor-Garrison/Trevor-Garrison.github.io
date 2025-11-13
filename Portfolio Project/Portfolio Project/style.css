@@ -5,6 +5,7 @@ Body {
   box-sizing: border-box;
   margin: 0;
   background-color: #bfeffc;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 /* Style the top navigation bar */
@@ -28,51 +29,61 @@ Body {
 .topnav a:hover {
   background-color: #8584d6 ;
   color: rgb(0, 0, 0);
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #home {
   background-color: #8b53f1;
-  color: rgb(0, 0, 0)
+  color: rgb(0, 0, 0);
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #Games {
   background-color: #8b53f1;
-  color: black
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #Music {
   background-color: #8b53f1;
-  color: black
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #Art {
   background-color: #8b53f1;
-  color: black
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #Boardgames {
   background-color: #8b53f1;
-  color: black
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #Sounds {
   background-color: #8b53f1;
-  color: black
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #resume {
   background-color: #8b53f1;
-  color: black
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #Contact {
   background-color: #8b53f1;
-  color: black
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #Aboutme {
   background-color: #8b53f1;
-  color: black
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .Bready {
