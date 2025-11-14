@@ -123,9 +123,10 @@ Body {
   Width: 100%
 }
 
-.game {
+.Apollyon {
+  Float: Left;
   Height: auto;
-  width: 50%
+  width: 25%
 }
 
 .audio {
@@ -148,3 +149,7 @@ Body {
   Width: 100%
 }
 
+.descAp {
+  Font-size: 1.75vw;
+  float: center
+}
