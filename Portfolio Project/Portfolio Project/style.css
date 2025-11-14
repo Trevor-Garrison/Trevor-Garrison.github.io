@@ -1,5 +1,3 @@
-
-
 Body {
   text-align: center;
   box-sizing: border-box;
@@ -8,24 +6,21 @@ Body {
   font-family: 'Courier New', Courier, monospace;
 }
 
-/* Style the top navigation bar */
 .topnav {
   overflow: hidden;
   background-color: #0f4c7e;
 }
 
-/* Style the topnav links */
 .topnav a {
   float: middle;
   display: inline;
   color: #bcf2ff;
   text-align: center;
   text-decoration: none;
-  font-size: xx-large;
+  font-size: 4vw;
   margin: 10px;
 }
 
-/* Change color on hover */
 .topnav a:hover {
   background-color: #8584d6 ;
   color: rgb(0, 0, 0);
@@ -126,7 +121,7 @@ Body {
 .Apollyon {
   Float: Left;
   Height: auto;
-  width: 25%
+  width: 30%
 }
 
 .audio {
@@ -150,6 +145,6 @@ Body {
 }
 
 .descAp {
-  Font-size: 1.75vw;
-  float: center
+  Font-size: 2vw;
+  float: center;
 }
