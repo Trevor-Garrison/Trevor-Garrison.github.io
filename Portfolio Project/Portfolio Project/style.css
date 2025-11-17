@@ -81,38 +81,6 @@ Body {
   font-family: 'Courier New', Courier, monospace;
 }
 
-.Bready {
-  height: 500px;
-  width: 700px;
-  Float: Left
-}
-
-.Bread {
-  text-align: center;
-  height: 10%;
-  width: 20%;
-  margin-left: 40%;
-  margin-right: 40%
-}
-
-.Breadous {
-  height: 500px;
-  width: 700px;
-  Float: right
-}
-
-.Breadious {
-  float: right;
-  height: 600px;
-  width: 800px;
-}
-
-.Breadan {
-  Float: left;
-  height: 600px;
-  width: 800px;
-}
-
 .home {
   Height: auto;
   Width: 100%
@@ -147,4 +115,15 @@ Body {
 .descAp {
   Font-size: 2vw;
   float: center;
+}
+
+.bready {
+  Float: Right;
+  Height: auto;
+  width:40%
+}
+
+.descbred {
+  Font-size: 2vw;
+  Float: Center
 }
