@@ -12,7 +12,6 @@ Body {
 }
 
 .topnav a {
-  float: middle;
   display: inline;
   color: #bcf2ff;
   text-align: center;
@@ -22,7 +21,7 @@ Body {
 }
 
 .topnav a:hover {
-  background-color: #8584d6 ;
+  background-color: #8584d6;
   color: rgb(0, 0, 0);
   font-family: 'Courier New', Courier, monospace;
 }
@@ -84,24 +83,22 @@ Body {
 }
 
 .Ap {
-  height:auto;
+  height: auto;
   Width: 100%
 }
 
 .descAp {
   Font-size: 2vw;
-  float: center;
 }
 
 .bready {
   Float: Right;
   Height: auto;
-  width:40%
+  width: 40%
 }
 
 .descbred {
   Font-size: 2vw;
-  Float: Center
 }
 
 .titlecard {
