@@ -64,7 +64,8 @@ Body {
 .Apollyon {
   Float: Left;
   Height: auto;
-  width: 30%
+  width: 30%;
+  Margin: 1%
 }
 
 .audio {
@@ -94,7 +95,8 @@ Body {
 .bready {
   Float: Right;
   Height: auto;
-  width: 30%
+  width: 30%;
+  Margin:1%
 }
 
 .descbred {
@@ -113,6 +115,24 @@ Body {
   Font-size: 3vw
 }
 
-#TBC {
+#Click4resume {
   Font-size: 3vw
+}
+
+.DonutTitle {
+  Font-size: 3vw
+}
+
+.Donut {
+  Float: Left;
+  Height: auto;
+  width: 30%;
+  Margin:1%
+}
+.dognuts {
+  font-size: 2vw;
+}
+
+#resumelink {
+  font-size: 2vw;
 }
