@@ -149,3 +149,30 @@ Body {
 .Apollyonpagedesc {
   Font-size: 2vw; 
 }
+
+.Apollyondesc {
+  Font-size: 3vw
+}
+
+.Apollyonmyrole {
+  Font-size: 3vw
+}
+
+.Apollyoncustompage {
+  Float: Left;
+  Height: auto;
+  width: 27%;
+  Margin: 1%
+}
+
+.Apollyonpagemyrole{
+  Font-size: 2vw;
+}
+
+.Apollyondownload{
+  font-size: 3vw;
+}
+
+.Apollyondownloaddesc{
+  font-size: 2vw
+}
