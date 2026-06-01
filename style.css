@@ -138,7 +138,7 @@ Body {
 }
 
 .descme {
-  font-size: 2vw;
+  font-size: 4vw;
 }
 
 .Apollyonpagetitle {
@@ -175,4 +175,37 @@ Body {
 
 .Apollyondownloaddesc{
   font-size: 2vw
+}
+
+.Skills {
+  font-size: 3vw
+}
+
+.Programming {
+  font-size: 3vw
+}
+
+.Production {
+  font-size: 3vw
+}
+
+.GameDesign {
+  font-size: 3vw
+}
+
+.BOKFBtitle {
+  font-size: 3vw;
+}
+
+.breadypageimage {
+  Float: Right;
+  Height: auto;
+  width: 27%;
+  Margin: 1%
+}
+
+.BOKFBpagedesc {
+  font-size: 2vw;
+  text-align: left;
+  margin-left: 1%;
 }
