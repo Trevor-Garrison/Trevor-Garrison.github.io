@@ -212,6 +212,8 @@ Body {
 
 .BOKFBmyrole {
   font-size: 2vw;
+  text-align:left;
+  margin: 1%;
 }
 
 .Peasimage {
@@ -237,4 +239,12 @@ Body {
 
 .BOKFBenemies {
   font-size: 1.8vw
+}
+
+.BOKFBscreenshots {
+  font-size: 2vw;
+}
+
+.Breadlink {
+  font-size: 2vw;
 }
