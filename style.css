@@ -248,3 +248,10 @@ Body {
 .Breadlink {
   font-size: 2vw;
 }
+
+.resume {
+  Float: center;
+  Height: auto;
+  width: 40%;
+  Margin: 1%
+}
