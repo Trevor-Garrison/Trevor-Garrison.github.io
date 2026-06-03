@@ -215,5 +215,26 @@ Body {
 }
 
 .Peasimage {
-  
+  Float: Left;
+  Height: auto;
+  width: 27%;
+  Margin: 1%;
+}
+
+.Asparagusimage {
+  Float: Center;
+  Height: auto;
+  width: 27%;
+  Margin: 1%;
+}
+
+.BreadRollimage {
+  Float: Right;
+  Height: auto;
+  width: 27%;
+  Margin: 1%;
+}
+
+.BOKFBenemies {
+  font-size: 1.8vw
 }
